@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.todoForm {
+  margin: 50px auto;
+
+}
+.add-btn{
+  display: inline;
+}
+
+.add-btn:hover {
+  background-color: white !important;
+  color: #dc004e !important;
+}
